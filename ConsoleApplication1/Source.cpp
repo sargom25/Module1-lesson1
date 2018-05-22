@@ -8,6 +8,7 @@ void main()
 
 
 
+
 	int x = 0, y;
 	printf("введите значение x: ");
 	scanf("%d", &x)
